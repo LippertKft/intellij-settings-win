@@ -3,7 +3,7 @@
     <property name="created">2018-04-20T22:30:47</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2018-04-20T22:41:21</property>
+    <property name="modified">2018-05-19T09:11:54</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="d8d8d8" />
@@ -405,7 +405,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="ccccff" />
       </value>
     </option>
     <option name="INFORMATION_ATTRIBUTES">
