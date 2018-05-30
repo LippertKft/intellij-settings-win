@@ -1,4 +1,8 @@
 <keymap version="1" name="Lippert" parent="Eclipse">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl 6" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
@@ -10,4 +14,5 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ToggleBookmark6" />
 </keymap>
